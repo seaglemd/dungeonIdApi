@@ -1,6 +1,0 @@
-## Interface: 70100
-## Title: Dungeon Info Api
-## Author: Matthew Seagle
-## Notes: Track Call To Arms
-
-DungeonInfoApi.lua

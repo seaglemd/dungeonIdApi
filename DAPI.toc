@@ -1,0 +1,5 @@
+## Interface: 70300
+## Title: DAPI
+## Author: Matthew Seagle
+## Notes: API for random dungeon and Call To Arms information
+DungeonInfoApi.lua
